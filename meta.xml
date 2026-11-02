@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<module>
+  <id>legacyfix5</id>
+  <name>legacyfix5</name>
+  <description>Deep-diagnose and fix bahman legacy redirects</description>
+  <version>1.0.0</version>
+  <release>1</release>
+  <vendor>local</vendor>
+</module>
